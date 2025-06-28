@@ -1,6 +1,6 @@
 # 🎓 Personalized Education – AI Learning Buddy
 
-A playful, AI-powered learning app designed for **kids and students** to learn smarter, practice better, and have fun doing it! 🚀
+A  AI-powered learning app designed for **students** to learn smarter, practice better, and have fun doing it! 🚀
 
 ---
 
