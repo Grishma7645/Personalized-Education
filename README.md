@@ -6,8 +6,8 @@ A playful, AI-powered learning app designed for **kids and students** to learn s
 
 ## 🔗 Live Link
 
-👉 [Your Deployed Link Here](https://your-vercel-app.vercel.app)  
-_Replace with your actual Vercel link._
+👉 [Your Deployed Link Here]([https://your-vercel-app.vercel.app](https://personalized-education-i4gx.vercel.app/))  
+
 
 ---
 
